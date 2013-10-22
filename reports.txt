@@ -1,0 +1,35 @@
+ROOM
+
+1. room report
+2. room occ report
+3. arrival/departure report
+4. group reservation report
+5. guest in house
+6. house keeping report
+7. Registration (customer) card
+8. Reservation cancellation
+
+RESTO
+
+1. by date/datewise resto report
+2. by date/datewise bar report
+3. customerwise resto report
+
+INV
+
+1. Item list report
+2. stock ledger report
+3. inward
+3.1 Item wise inward
+3.2 date wise inward
+3.3 vendor wise inward
+4. outward
+4.1 departmentwise outward
+4.2 Itemwise outward
+4.3 datewise outward
+5. datewise item requirement report
+6. itemwise requirement report
+
+FINANCE
+1. Cashier report
+2. Payment report
